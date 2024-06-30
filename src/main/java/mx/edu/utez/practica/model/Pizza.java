@@ -51,5 +51,5 @@ public class Pizza implements Serializable {
     public void setIngredientes(ArrayList<Ingrediente> ingredientes) {
         this.ingredientes = ingredientes;
     }
-    
+
 }
