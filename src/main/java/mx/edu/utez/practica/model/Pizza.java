@@ -1,5 +1,5 @@
 
-package mx.edu.utez.pizzeria.model;
+package mx.edu.utez.practica.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;
